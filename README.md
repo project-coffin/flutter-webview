@@ -4,7 +4,8 @@ This is a flutter webview.
 
 ## Getting Started
 
-Add `web_link` to config.dart
+Add `web_link` to config.dart.
+However, keep in mind that the webview keyboard is still not supported for production. 👀
 
 ## References
 
