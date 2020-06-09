@@ -1,16 +1,12 @@
 # flutter_webview
 
-A new Flutter project.
+This is a flutter webview.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Add `web_link` to config.dart
 
-A few resources to get you started if this is your first Flutter project:
+## References
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- https://pub.dev/packages/webview_flutter
+- https://medium.com/@ekosuprastyo15/webview-in-flutter-example-a11a24eb617f
